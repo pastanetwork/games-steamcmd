@@ -12,7 +12,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "ghcr.io\/pastanetwork\/steamcmd:debian": "ghcr.io\/parkervcp\/steamcmd:debian"
+        "ghcr.io\/pastanetwork\/steamcmd:debian": "ghcr.io\/pastanetwork\/steamcmd:debian"
     },
     "file_denylist": [],
     "startup": ".\/Engine\/Binaries\/Linux\/*-Linux-Shipping FactoryGame -Port={{SERVER_PORT}}",
