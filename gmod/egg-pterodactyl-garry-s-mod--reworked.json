@@ -8,7 +8,10 @@
     "name": "Garry's Mod",
     "author": "vilhelm@prytznet.se",
     "description": "Garry's Mod, is a sandbox physics game created by Garry Newman, and developed by his company, Facepunch Studios.",
-    "features": null,
+    "features": [
+        "gsl_token",
+        "steam_disk_space"
+    ],
     "docker_images": {
         "ghcr.io\/pastanetwork\/games:source": "ghcr.io\/pastanetwork\/games:source"
     },
